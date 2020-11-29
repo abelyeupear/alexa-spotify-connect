@@ -34,7 +34,7 @@
     "url": "git+https://github.com/thorpelawrence/alexa-spotify-connect.git"
   },
   "alexa": {
-    "applicationId": "amzn1.ask.skill.33d79728-0f5a-44e7-ae22-ccf0b0c0e9e0"
+    "applicationId": "amzn1.ask.skill.ce0b8a12-1090-40df-9202-525bdd2f4cbd"
   },
   "jest": {
     "coverageReporters": [
